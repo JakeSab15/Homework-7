@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  WelcomeViewController.swift
 //  Homework 7
 //
 //  Created by Jakob Sabatula on 5/2/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UITabBarController {
+class WelcomeViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

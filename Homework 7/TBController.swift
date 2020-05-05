@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TBController.swift
 //  Homework 7
 //
 //  Created by Jakob Sabatula on 5/2/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UITabBarController {
+class TBController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
